@@ -91,4 +91,8 @@ export default defineNuxtConfig({
   },
 
   css: ['~/assets/css/style.scss'],
+
+  runtimeConfig: {
+    BASE_URL: process.env.BASE_URL || 'https://63003.wu.elitepro.ltd',
+  },
 })

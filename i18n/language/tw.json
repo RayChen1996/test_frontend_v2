@@ -1,4 +1,16 @@
 {
-  "welcome": "歡迎",
-  "test": "測試"
+  "title": "用戶管理",
+  "name": "姓名",
+  "email": "電子郵件",
+  "create": "新增",
+  "update": "更新",
+  "delete": "刪除",
+  "confirmTitle": "請確認",
+  "confirmCreate": "是否新增此用戶？",
+  "confirmUpdate": "是否更新此用戶？",
+  "confirmDelete": "是否刪除此用戶？",
+  "cancel": "取消",
+  "submit": "送出",
+  "required": "此欄位為必填",
+  "invalidEmail": "電子郵件格式不正確"
 }

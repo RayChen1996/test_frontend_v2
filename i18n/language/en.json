@@ -1,4 +1,16 @@
 {
-  "welcome": "Welcome",
-  "test": "Test"
+  "title": "User Management",
+  "name": "Name",
+  "email": "Email",
+  "create": "Create",
+  "update": "Update",
+  "delete": "Delete",
+  "confirmTitle": "Please Confirm",
+  "confirmCreate": "Create this user?",
+  "confirmUpdate": "Update this user?",
+  "confirmDelete": "Delete this user?",
+  "cancel": "Cancel",
+  "submit": "Submit",
+  "required": "This field is required",
+  "invalidEmail": "Invalid email format"
 }
